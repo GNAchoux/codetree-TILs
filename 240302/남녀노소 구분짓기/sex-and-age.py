@@ -1,4 +1,4 @@
-sex = input()
+sex = int(input())
 age = int(input())
 
 if sex == 1:
